@@ -2,10 +2,12 @@
 layout: blog
 category: blog
 splash: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "why doesn't people.."
 ---
+
 
 ## A New Post
 
